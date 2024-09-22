@@ -4,7 +4,7 @@ import { MdLeaderboard } from "react-icons/md";
 
 const Footer = () => {
   return (
-    <div className="fixed bottom-0 lg:w-[530px] left-0 right-0 p-4 bg-gradient-to-r from-blue-500 via-blue-700 to-blue-400 shadow-lg">
+    <div className="fixed bottom-0 lg:w-[400px] left-0 right-0 p-4 bg-gradient-to-r from-blue-500 via-blue-700 to-blue-400 shadow-lg">
       <div className="flex justify-around text-white ">
         <button className="focus:outline-none flex flex-col items-center space-y-1 transition-transform transform hover:scale-110 duration-200 ease-in-out">
           <FaHome size={24} />

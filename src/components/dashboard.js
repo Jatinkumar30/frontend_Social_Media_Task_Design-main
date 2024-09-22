@@ -29,7 +29,7 @@ const Dashboard = () => {
       </div>
 
 
-      <div className="hidden lg:w-[530px] md:flex justify-around py-4 bg-gray-100 fixed bottom-0 left-0 right-0">
+      <div className="hidden lg:w-[400px] md:flex justify-around py-4 bg-gray-100 fixed bottom-0 left-0 right-0">
         <button className="flex flex-col items-center text-gray-600 hover:text-blue-500 space-y-1">
           <FaHome size={28} />
           <span className="text-sm">Home</span>
